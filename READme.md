@@ -29,4 +29,4 @@ With this tool, you can:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aseralemayehu/CSV-Data-Cleaner.git
